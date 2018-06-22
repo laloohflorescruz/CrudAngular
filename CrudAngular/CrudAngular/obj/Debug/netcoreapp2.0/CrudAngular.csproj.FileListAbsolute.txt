@@ -1,0 +1,12 @@
+C:\Users\eflores\Documents\Projects\angular\CrudAngular\CrudAngular\bin\Debug\netcoreapp2.0\CrudAngular.deps.json
+C:\Users\eflores\Documents\Projects\angular\CrudAngular\CrudAngular\bin\Debug\netcoreapp2.0\CrudAngular.runtimeconfig.json
+C:\Users\eflores\Documents\Projects\angular\CrudAngular\CrudAngular\bin\Debug\netcoreapp2.0\CrudAngular.runtimeconfig.dev.json
+C:\Users\eflores\Documents\Projects\angular\CrudAngular\CrudAngular\bin\Debug\netcoreapp2.0\CrudAngular.dll
+C:\Users\eflores\Documents\Projects\angular\CrudAngular\CrudAngular\bin\Debug\netcoreapp2.0\CrudAngular.pdb
+C:\Users\eflores\Documents\Projects\angular\CrudAngular\CrudAngular\obj\Debug\netcoreapp2.0\CrudAngular.csprojResolveAssemblyReference.cache
+C:\Users\eflores\Documents\Projects\angular\CrudAngular\CrudAngular\obj\Debug\netcoreapp2.0\CrudAngular.csproj.CoreCompileInputs.cache
+C:\Users\eflores\Documents\Projects\angular\CrudAngular\CrudAngular\obj\Debug\netcoreapp2.0\CrudAngular.AssemblyInfoInputs.cache
+C:\Users\eflores\Documents\Projects\angular\CrudAngular\CrudAngular\obj\Debug\netcoreapp2.0\CrudAngular.AssemblyInfo.cs
+C:\Users\eflores\Documents\Projects\angular\CrudAngular\CrudAngular\obj\Debug\netcoreapp2.0\CrudAngular.dll
+C:\Users\eflores\Documents\Projects\angular\CrudAngular\CrudAngular\obj\Debug\netcoreapp2.0\CrudAngular.pdb
+C:\Users\eflores\Documents\Projects\angular\CrudAngular\CrudAngular\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
